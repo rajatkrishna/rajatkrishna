@@ -1,5 +1,5 @@
-<h2 style="text-align: center;"> Rajat Krishna </h2>
-<div style="text-align:center;">
+<h2 align="center"> Rajat Krishna </h2>
+<div align="center">
 <a href="https://rajatkrishna.tech/"><img alt="Website" src="https://img.shields.io/badge/Website-https%3A%2F%2Frajatkrishna.tech-blue?style=flat-square&logo=google-chrome"></a>
 <a href="https://www.linkedin.com/in/krishna-ra/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Rajat%20Krishna-blue?style=flat-square&logo=linkedin"></a>
 <a href="mailto:krishna.ra@northeastern.edu"><img alt="Email" src="https://img.shields.io/badge/Email-krishna.ra%40northeastern.edu-blue?style=flat-square&logo=gmail"></a>
@@ -41,7 +41,7 @@
 <br/>
 
 <a href="https://github.com/rajatkrishna">
-<div style="text-align:center;">
+<div align="center">
   <img height="180em" src="https://github-readme-stats-beta-self.vercel.app/api?username=rajatkrishna&theme=buefy&show_icons=true&count_private=true&hide_rank=true&hide=stars" />
   <img height="180em" src="https://github-readme-stats-beta-self.vercel.app/api/top-langs/?username=rajatkrishna&theme=buefy&layout=compact&langs_count=6&count_weight=1&size_weight=0" />
 </div>
