@@ -4,13 +4,14 @@
 <a href="https://www.linkedin.com/in/krishna-ra/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Rajat%20Krishna-blue?style=flat-square&logo=linkedin"></a>
 <a href="mailto:krishna.ra@northeastern.edu"><img alt="Email" src="https://img.shields.io/badge/Email-krishna.ra%40northeastern.edu-blue?style=flat-square&logo=gmail"></a>
 </div>
-<hr>
 
 ## Hello. I'm Rajat. Welcome to my GitHub profile.
+<hr>
+</br>
 <h3> &#x25B6; &nbsp;About Me </h3>
 
 - &nbsp; Graduate student at Northeastern University
-
+</br>
 <h3> &#x25B6; &nbsp;Tech Stack</h3>
 
 - 💻 &nbsp;
