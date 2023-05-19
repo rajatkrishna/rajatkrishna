@@ -6,12 +6,11 @@
 </div>
 
 ## Hello. I'm Rajat. Welcome to my GitHub profile.
-<hr>
-</br>
+
 <h3> &#x25B6; &nbsp;About Me </h3>
 
 - &nbsp; Graduate student at Northeastern University
-</br>
+
 <h3> &#x25B6; &nbsp;Tech Stack</h3>
 
 - 💻 &nbsp;
